@@ -1,2 +1,9 @@
-# how-much-energy-is
-How much energy is 1 kcal/mol? and 4.184 kj/mol?
+# How much energy is 1 kcal/mol? and 4.184 kj/mol?
+ - What can we buy with 1 kcal/mol?
+ - How many kcals/mol do we need to...
+    - Break a hydrogen bond?
+    - ...
+ - What increment of temperature is 1 kcal/mol?
+ - What does 1.5 kcal/mol mean in rational drug design when we say the tolerance is around 1.5 kcal/mol.
+ - What's the energy needed to break a covalent bond?
+ - ...
